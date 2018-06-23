@@ -1,4 +1,4 @@
-package dvbscan
+package main
 
 import "fmt"
 
