@@ -1,4 +1,4 @@
-package restdvb
+package main
 
 import "fmt"
 
